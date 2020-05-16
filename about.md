@@ -2,6 +2,6 @@
 layout: layout.html
 ---
 
-#About this demo
+# About this demo
 
 Just a **demo**
