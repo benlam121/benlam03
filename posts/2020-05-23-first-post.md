@@ -5,6 +5,6 @@ title: This is title
 ---
 
 
-This is my first post in my website.
+<h2>This is my first post in my website.</h2>
 
 Just for record.
