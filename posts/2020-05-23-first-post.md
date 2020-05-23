@@ -1,6 +1,6 @@
 ---
 tags: tdl
-layout: layout.html
+layout: post.html
 title: This is title
 ---
 
