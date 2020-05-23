@@ -1,5 +1,5 @@
 ---
-tags: tdl
+tags: post
 layout: post.html
 title: This is title
 ---
