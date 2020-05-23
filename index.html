@@ -5,7 +5,7 @@ layout: layout.html
 
 <h2>Latest blog post</h2>
 <ul>
-{%- for post in collections.post reversed -%}
+{%- for tdl in collections.post reversed -%}
   <li>
     <a href="{{tdl.url}}">
       {{ tdl.data.title }}
