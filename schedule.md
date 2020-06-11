@@ -2,9 +2,10 @@
 layout: layout.html
 ---
 
-# Test schedule
--  5/6  (Fri) **Science** 
--  6/6  (Sat) Physic (ipad)
--  8/6  (Wed) Listening
+# Test schedule 
+- 12/6  (Fri) Bio quiz
+- 15/6  (Mon) Story
+- 17/6  (Wed) **Physic fighting**
+- 19/6  (Fri) **Science**
 
 Click <a href='/index'>here</a> to back to index
