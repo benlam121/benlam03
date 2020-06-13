@@ -1,6 +1,10 @@
-<main>
-    # Thanks
-<p>We will handle your submission soon.</p>
-<p><a href='/'>Back to home</a></p>
+---
+layout: layout.html
+---
+# Thanks
 
-  </main>
+We will handle your submission soon.
+
+
+
+
