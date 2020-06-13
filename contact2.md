@@ -2,7 +2,7 @@
 layout: layout.html
 ---
 ## Contact us
-<form action='/thanks' method='post'><input type='hidden' name='form-name' value='form 1' />
+<form action='/thanks/' method='post'><input type='hidden' name='form-name' value='form 1' />
   <p>
     <label>
       Your Name:
