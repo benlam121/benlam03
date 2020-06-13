@@ -22,12 +22,6 @@ layout: layout.html
     </label>
   </p>
   <p>
-    <label>
-      Attachment:
-      <input type="file" name="attachment">
-    </label>
-  </p>
-  <p>
     <input type="submit" value="Send">
   </p>
 </form>
