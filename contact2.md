@@ -2,9 +2,7 @@
 layout: layout.html
 ---
 ## Contact us
-The following code is using Netlify form
-
-<form name="contact" method="POST" data-netlify="true" enctype="multipart/form-data">
+<form action='/thanks' method='post'><input type='hidden' name='form-name' value='form 1' />
   <p>
     <label>
       Your Name:
