@@ -3,16 +3,14 @@ layout: layout.html
 ---
 
 # Test schedule 
-- 12/6  (Fri) Bio quiz
+- 6/7 Listening
 
-- 15/6  (Mon) Story
+- 8/7 **Physics EXAM**
 
-- 17/6  (Wed) **Physic fighting**
+- 10/7 **Chemistry** 
 
-- 19/6  (Fri) **Science**
+- 11/7 **Chinese**
 
-- 20/6  (Sat) Chinese
+- 11/7 **Physics EXAM Bonus**
 
-- 22/6  (Mon) **Eng**
-
-- 24/6  (Wed) **Maths EXAM**
+- 13/7 **ENGLISH**
