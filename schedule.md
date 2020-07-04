@@ -3,9 +3,9 @@ layout: layout.html
 ---
 
 # Test schedule 
-- 6/7 Listening
+- 6/7  Listening
 
-- 8/7 **Physics EXAM**
+- 8/7  **Physics EXAM**
 
 - 10/7 **Chemistry** 
 
