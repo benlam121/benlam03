@@ -15,8 +15,7 @@ layout: layout.html
 {%- endfor -%}
 </ul>
 <div>
-<img src="https://avatars3.githubusercontent.com/u/65061930?v=4" id="photo">
-<meta name="viewport" content="width=device-width">
+<img src="https://avatars3.githubusercontent.com/u/65061930?v=4" alt="photo" width="230" height="230">
 </div>
 <div id="qrcode" title="https://benlam121.netlify.app/">
   
@@ -24,8 +23,8 @@ layout: layout.html
 
 <script>
   var qrcode = new QRCode("qrcode", {
-    width: 128,
-    height: 128
+    width: 256,
+    height: 256
   });
   var url = window.location.href.replace("https://inqrcode.com/","").replace("https://www.inqrcode.com/","").replace("https://benlam121.netlify.com/","")
 
