@@ -1,6 +1,4 @@
-/about-us           /about
-
-/colour             https://colours.neilorangepeel.com
-
-/qrcode/*           /qrcode.html    200
-/*                  /index.html    200
+/about-us    /about
+/colour      https://colours.neilorangepeel.com
+/qrcode/*    /qrcode.html    200
+/*           /index.html    200
