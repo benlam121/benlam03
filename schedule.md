@@ -3,4 +3,4 @@ layout: layout.html
 ---
 
 # Test schedule 
-- 31/7 **Holiday**
+**Nothing to do now**
